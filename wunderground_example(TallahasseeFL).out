@@ -1,0 +1,435 @@
+http://api.wunderground.com/api/cbc8d5c0d4940c73/geolookup/conditions/q/FL/Tallahassee.json
+response,location,current_observation
+  - version: 0.1
+  - termsofService: http://www.wunderground.com/weather/api/d/terms.html
+    - geolookup: 1
+    - conditions: 1
+  - type: CITY
+  - country: US
+  - country_iso3166: US
+  - country_name: USA
+  - state: FL
+  - city: Tallahassee
+  - tz_short: EDT
+  - tz_long: America/New_York
+  - lat: 30.42930031
+  - lon: -84.25710297
+  - zip: 32301
+  - magic: 1
+  - wmo: 99999
+  - l: /q/zmw:32301.1.99999
+  - requesturl: US/FL/Tallahassee.html
+  - wuiurl: http://www.wunderground.com/US/FL/Tallahassee.html
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - icao: KTLH
+        - lat: 30.39353943
+        - lon: -84.35134888
+        - city: Quincy Muni, Quincy, FL
+        - state: FL
+        - country: US
+        - icao: K2J9
+        - lat: 30.59786987
+        - lon: -84.55742645
+        - city: Thomasville
+        - state: GA
+        - country: US
+        - icao: KTVI
+        - lat: 30.90179062
+        - lon: -83.88112640
+        - city: Bainbridge
+        - state: GA
+        - country: US
+        - icao: KBGE
+        - lat: 30.97159767
+        - lon: -84.63692474
+        - neighborhood: Rickards High School WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA54
+        - lat: 30.406878
+        - lon: -84.262329
+        - distance_km: 2
+        - distance_mi: 1
+        - neighborhood: Leon High WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA59
+        - lat: 30.446423
+        - lon: -84.275482
+        - distance_km: 2
+        - distance_mi: 1
+        - neighborhood: Kate Sullivan WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA65
+        - lat: 30.452911
+        - lon: -84.266937
+        - distance_km: 2
+        - distance_mi: 1
+        - neighborhood: Betton Hills
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA48
+        - lat: 30.465418
+        - lon: -84.260811
+        - distance_km: 4
+        - distance_mi: 2
+        - neighborhood: Lincoln High WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA64
+        - lat: 30.436008
+        - lon: -84.21376
+        - distance_km: 4
+        - distance_mi: 2
+        - neighborhood: SAIL High WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA61
+        - lat: 30.43544
+        - lon: -84.316299
+        - distance_km: 5
+        - distance_mi: 3
+        - neighborhood: Florida High / Southwood
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA38
+        - lat: 30.385077
+        - lon: -84.223831
+        - distance_km: 5
+        - distance_mi: 3
+        - neighborhood: Tallahassee Nurseries
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA49
+        - lat: 30.482269
+        - lon: -84.256699
+        - distance_km: 5
+        - distance_mi: 3
+        - neighborhood: APRSWXNET Tallahassee - PineyZ FL US
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: MD7314
+        - lat: 30.442499
+        - lon: -84.195
+        - distance_km: 6
+        - distance_mi: 3
+        - neighborhood: Godby High WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA63
+        - lat: 30.462297
+        - lon: -84.316231
+        - distance_km: 6
+        - distance_mi: 4
+        - neighborhood: Grandma's Weather, NE Tallahassee
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA73
+        - lat: 30.476456
+        - lon: -84.194656
+        - distance_km: 7
+        - distance_mi: 4
+        - neighborhood: Gilchrist Elementary WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA60
+        - lat: 30.502861
+        - lon: -84.258698
+        - distance_km: 8
+        - distance_mi: 4
+        - neighborhood: APRSWXNET Tallahassee FL US
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: MD4251
+        - lat: 30.5
+        - lon: -84.300003
+        - distance_km: 8
+        - distance_mi: 5
+        - neighborhood: Frontier Estates, 7.4mi E of town
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA27
+        - lat: 30.421715
+        - lon: -84.158134
+        - distance_km: 9
+        - distance_mi: 5
+        - neighborhood: Rhoden Cove
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA66
+        - lat: 30.519415
+        - lon: -84.2827
+        - distance_km: 10
+        - distance_mi: 6
+        - neighborhood: Pine Tip Hills
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA51
+        - lat: 30.52017
+        - lon: -84.28231
+        - distance_km: 10
+        - distance_mi: 6
+        - neighborhood: Old Dirt
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA46
+        - lat: 30.447809
+        - lon: -84.144569
+        - distance_km: 10
+        - distance_mi: 6
+        - neighborhood: Killearn Estates, NE Tallahassee
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA42
+        - lat: 30.522217
+        - lon: -84.197563
+        - distance_km: 11
+        - distance_mi: 7
+        - neighborhood: Canopy Oaks WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA57
+        - lat: 30.510157
+        - lon: -84.347969
+        - distance_km: 12
+        - distance_mi: 7
+        - neighborhood: DeSoto Trail Elementary WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA53
+        - lat: 30.538631
+        - lon: -84.225021
+        - distance_km: 12
+        - distance_mi: 7
+        - neighborhood: Chaires Elementary WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA52
+        - lat: 30.435654
+        - lon: -84.12278
+        - distance_km: 12
+        - distance_mi: 7
+        - neighborhood: Woodville Elementary WeatherSTEM
+        - city: Woodville
+        - state: FL
+        - country: US
+        - id: KFLWOODV2
+        - lat: 30.313656
+        - lon: -84.245461
+        - distance_km: 12
+        - distance_mi: 7
+        - neighborhood: North Tallahassee
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA21
+        - lat: 30.546261
+        - lon: -84.222054
+        - distance_km: 13
+        - distance_mi: 8
+        - neighborhood: Montford Middle WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA58
+        - lat: 30.531656
+        - lon: -84.179367
+        - distance_km: 13
+        - distance_mi: 8
+        - neighborhood: Moore Pond
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA47
+        - lat: 30.556
+        - lon: -84.265358
+        - distance_km: 14
+        - distance_mi: 8
+        - neighborhood: Hawks Rise WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA56
+        - lat: 30.555353
+        - lon: -84.276466
+        - distance_km: 14
+        - distance_mi: 8
+        - neighborhood: Chiles High WeatherSTEM
+        - city: Florida
+        - state: FL
+        - country: US
+        - id: KFLFLORI3
+        - lat: 30.573421
+        - lon: -84.209633
+        - distance_km: 16
+        - distance_mi: 9
+        - neighborhood: Northwest Lake Jackson
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA50
+        - lat: 30.559086
+        - lon: -84.368332
+        - distance_km: 17
+        - distance_mi: 10
+        - neighborhood: Deerlake Middle WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA55
+        - lat: 30.607317
+        - lon: -84.241356
+        - distance_km: 19
+        - distance_mi: 11
+        - neighborhood: Hilliardville Road
+        - city: Crawfordville
+        - state: FL
+        - country: US
+        - id: KFLCRAWF15
+        - lat: 30.284065
+        - lon: -84.380508
+        - distance_km: 20
+        - distance_mi: 12
+        - neighborhood: MesoWest WAKULLA #1 FL US SCAN
+        - city: Crawfordville
+        - state: FL
+        - country: US
+        - id: MWAKF1
+        - lat: 30.299999
+        - lon: -84.419998
+        - distance_km: 21
+        - distance_mi: 12
+        - neighborhood: Andara Farms
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA75
+        - lat: 30.525698
+        - lon: -84.055908
+        - distance_km: 22
+        - distance_mi: 13
+        - neighborhood: Fort Braden School WeatherSTEM
+        - city: Tallahassee
+        - state: FL
+        - country: US
+        - id: KFLTALLA62
+        - lat: 30.43922
+        - lon: -84.515495
+        - distance_km: 24
+        - distance_mi: 14
+        - neighborhood: TeligentEMS
+        - city: Havana
+        - state: FL
+        - country: US
+        - id: KFLHAVAN4
+        - lat: 30.618294
+        - lon: -84.418015
+        - distance_km: 26
+        - distance_mi: 15
+        - neighborhood: Fastphoto
+        - city: Havana
+        - state: FL
+        - country: US
+        - id: KFLHAVAN6
+        - lat: 30.627779
+        - lon: -84.411987
+        - distance_km: 26
+        - distance_mi: 15
+    - url: http://icons-ak.wxug.com/graphics/wu2/logo_130x80.png
+    - title: Weather Underground
+    - link: http://www.wunderground.com
+    - full: Tallahassee, FL
+    - city: Tallahassee
+    - state: FL
+    - state_name: Florida
+    - country: US
+    - country_iso3166: US
+    - zip: 32301
+    - magic: 1
+    - wmo: 99999
+    - latitude: 30.42930031
+    - longitude: -84.25710297
+    - elevation: 59.00000000
+    - full: Rickards High School WeatherSTEM, Tallahassee, Florida
+    - city: Rickards High School WeatherSTEM, Tallahassee
+    - state: Florida
+    - country: US
+    - country_iso3166: US
+    - latitude: 30.406878
+    - longitude: -84.262329
+    - elevation: 138 ft
+  - station_id: KFLTALLA54
+  - observation_time: Last Updated on May 13, 11:40 PM EDT
+  - observation_time_rfc822: Tue, 13 May 2014 23:40:48 -0400
+  - observation_epoch: 1400038848
+  - local_time_rfc822: Tue, 13 May 2014 23:55:28 -0400
+  - local_epoch: 1400039728
+  - local_tz_short: EDT
+  - local_tz_long: America/New_York
+  - local_tz_offset: -0400
+  - weather: Mostly Cloudy
+  - temperature_string: 77.5 F (25.3 C)
+  - temp_f: 77.5
+  - temp_c: 25.3
+  - relative_humidity: 76%
+  - wind_string: From the North at 1.0 MPH Gusting to 5.0 MPH
+  - wind_dir: North
+  - wind_degrees: 360
+  - wind_mph: 1.0
+  - wind_gust_mph: 5.0
+  - wind_kph: 1.6
+  - wind_gust_kph: 8.0
+  - pressure_mb: 1019
+  - pressure_in: 30.09
+  - pressure_trend: +
+  - dewpoint_string: 69 F (21 C)
+  - dewpoint_f: 69
+  - dewpoint_c: 21
+  - heat_index_string: NA
+  - heat_index_f: NA
+  - heat_index_c: NA
+  - windchill_string: NA
+  - windchill_f: NA
+  - windchill_c: NA
+  - feelslike_string: 77.5 F (26 C)
+  - feelslike_f: 77.5
+  - feelslike_c: 26
+  - visibility_mi: 10.0
+  - visibility_km: 16.1
+  - solarradiation: 0
+  - UV: 0.0
+  - precip_1hr_string: 0.00 in ( 0 mm)
+  - precip_1hr_in: 0.00
+  - precip_1hr_metric:  0
+  - precip_today_string: 0.00 in (0 mm)
+  - precip_today_in: 0.00
+  - precip_today_metric: 0
+  - icon: mostlycloudy
+  - icon_url: http://icons-ak.wxug.com/i/c/k/nt_mostlycloudy.gif
+  - forecast_url: http://www.wunderground.com/US/FL/Tallahassee.html
+  - history_url: http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KFLTALLA54
+  - ob_url: http://www.wunderground.com/cgi-bin/findweather/getForecast?query=30.406878,-84.262329

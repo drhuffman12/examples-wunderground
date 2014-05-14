@@ -12,7 +12,7 @@ require 'json'
 
 my_key='0123456789abcdef' # replace with your 16 hex digit api key code; get one at "http://www.wunderground.com/weather/api/d/login.html"
 
-by_city=1
+by_city=1 # 0 or 1
 by_zip=(1-by_city)
 
 if (by_city==1)
